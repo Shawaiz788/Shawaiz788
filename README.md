@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawaiz788&label=Profile%20views&color=0e75b6&style=flat" alt="shawaiz788" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawaiz788" alt="shawaiz788" /></a> </p>
+
 
 - 🔭 I’m currently working on [Amplify (Music Player)](https://youtu.be/_JAVFL3jN-8)
 

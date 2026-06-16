@@ -57,6 +57,9 @@ I'm a Computer Science student at FAST NUCES Lahore with a focus on **Android de
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
